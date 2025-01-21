@@ -3,7 +3,7 @@
 # baseurl = "https://rarebooksinstem.com/"  # Include trailing slash
 baseurl = "https://shimmering-gaufre-ed14fd.netlify.app/"
 # title = "Clarity"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+# copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 # canonifyurls = true
 
 theme = "hugo-clarity"
