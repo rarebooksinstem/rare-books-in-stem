@@ -1,3 +1,4 @@
-baseURL: https://shimmering-gaufre-ed14fd.netlify.app//
+baseURL: https://shimmering-gaufre-ed14fd.netlify.app/
 languageCode: en-us
 title: Rare Books in STEM
+theme: hugo-clarity
