@@ -2,12 +2,12 @@
 enableSearch = true
 
 # socials
-twitter = "@janedoe"
-largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
+# twitter = "@janedoe"
+# largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
+introDescription = "Collector of rare material in science, technology, engineering, and mathematics."
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
-# keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+# keywords = ["rare books", "rare book", "science", "technology", "engineering", "math", "stem"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
@@ -52,7 +52,7 @@ fontsDir = "fonts/" # without a leading forward slash
 fallBackOgImage = "images/thumbnail.png"
 
 # Logo image
-logo = "logos/rarebookslogo.png"
+logo = "logos/newlogo.png"
 
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
@@ -155,7 +155,7 @@ blogDir = "post"
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.
-websiteDomain = "example.com" # domain name of your website, most cases same as your base url
+websiteDomain = "rarebooksinstem.com" # domain name of your website, most cases same as your base url
 # plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is self hosted
 # scriptName = "plausible" # default is set to plausible, only required if using a custom name for script
 
