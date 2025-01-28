@@ -3,15 +3,14 @@ title: "A Treatise Upon the Art of Flying by Thomas Walker (1810)" # Title of th
 date: 2025-01-19T18:17:34-07:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: false # Sets whether to render this page. Draft of true will not be rendered.
+draft: true # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 usePageBundles: false # Set to true to group assets like images in the same folder as this post.
-# featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
+featureImage: "/images/001-walker-on-flying/title page.jpg" # Sets featured image on blog post.
 # featureImageAlt: 'Description of image' # Alternative text for featured image.
-# featureImageCap: 'This is the featured image.' # Caption (optional).
-thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
+featureImageCap: "Title page of the first edition" # Caption (optional).
+thumbnail: "/images/001-walker-on-flying/frontispiece.jpg"
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 figurePositionShow: true # Override global value for showing the figure label.
@@ -25,7 +24,7 @@ tags:
 # comment: false # Disable comment if false.
 ---
 
-It is fitting that my first post be about the book that got me interested in early aviation. It is the first edition of Thomas Walker's A Treatise Upon the Art of Flying, printed in Hull in 1810. This particular copy is inscribed by Walker to a Tho. Jaques, and auction records show this exact copy came up for sale back in 19XX.
+My first post is about the book that began my fascination with early aviation. It is the first edition of Thomas Walker's *A Treatise Upon the Art of Flying*, printed in Hull in 1810. This particular copy is inscribed by Walker to a Tho. Jaques, and auction records show this exact copy came up for sale back in 19XX.
 
 Little is known about Walker's life. The title page lists his occupation as a portrait painter.
 

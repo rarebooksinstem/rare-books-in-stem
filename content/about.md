@@ -7,10 +7,6 @@ author = "Rare Books in STEM"
 draft = false
 +++
 
-I am a collector of early (typically 19th century and earlier) science, engineering, and math materials. One of my main areas of collecting is early aviation (pre-Wright Brothers).
+I am a collector of early science, engineering, and math material. I also occasionally buy rare books in science fiction, history, and literature. This site was primarily created as a way to catalog the books in my collection. One of my main areas of collecting at the moment is early aviation (pre-Wright Brothers), so many of the posts will be on this topic.
 
-Some of the bibliographies referenced on this site include
-
-* The History of Aeronautics in Great Britain by  J. E. Hodgeson
-
-To contact me, send me an email at rarebooksinstem@gmail.com.
+For any questions or comments or if you just want to chat about books, feel free to send me an email at rarebooksinstem@gmail.com.
