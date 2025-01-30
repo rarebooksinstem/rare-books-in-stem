@@ -1,24 +1,9 @@
-# set `baseurl` to your root domain
-# if you set it to "/" share icons won't work properly on production
-baseurl = "https://rarebooksinstem.com/"  # Include trailing slash
-# baseurl = "https://shimmering-gaufre-ed14fd.netlify.app/"
-# title = "Clarity"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
-# copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
-# canonifyurls = true
-
-theme = "hugo-clarity"
-disqusShortname = ""
-
-# [menus]
-# config/_default/menus/menu.xx.toml
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
-[outputs]
-home = ["HTML", "RSS", "JSON"]
-
-[pagination]
-  pagerSize = 10
+# default config
+baseurl = "https://rarebooksinstem.com"
+languageCode = "en-us"
+title = "Rare Books in STEM"
+theme = "parsa-hugo"
+summaryLength = "10"
+pagination.pagerSize = 6
+# google analytics
+googleAnalytics = "" # example : UA-123-45

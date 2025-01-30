@@ -2,15 +2,12 @@
 title: "A Treatise Upon the Art of Flying by Thomas Walker (1810)" # Title of the blog post.
 date: 2025-01-27 # Date of post creation.
 # description: "Article description." # Description used for search engine.
-# featured: true # Sets if post is a featured post, making appear on the home page side bar.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
+slug: walker-on-flying
 usePageBundles: false # Set to true to group assets like images in the same folder as this post.
-# featureImage: "/images/001-walker-on-flying/frontispiece.jpg" # Sets featured image on blog post.
-# featureImageAlt: 'Description of image' # Alternative text for featured image.
-# featureImageCap: "Title page of the first edition" # Caption (optional).
-thumbnail: "post/001-walker-on-flying/frontispiece.jpg"
+image: "images/001-walker-on-flying/frontispiece.jpg"
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 figurePositionShow: true # Override global value for showing the figure label.

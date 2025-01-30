@@ -12,13 +12,6 @@ id = ''
 [pagination]
 pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 
-[languages.en]
-contentDir = "content/"
-languageCode = 'en-US'
-weight = 1
-title = "Ananke"
-# languageDirection = 'rtl' for Right-To-Left languages
-
 [sitemap]
 changefreq = "monthly"
 priority = 0.5

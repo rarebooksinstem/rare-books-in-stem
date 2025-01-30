@@ -1,4 +1,8 @@
+# --------------------------
+# English language
+# --------------------------
 [en]
-  title = "Rare Books in STEM"
-  LanguageName = "English"
-  weight = 1
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/"
+weight = 1
