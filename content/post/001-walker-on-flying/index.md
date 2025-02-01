@@ -7,14 +7,12 @@ toc: false # Controls if a table of contents should be generated for first-level
 # menu: main
 slug: walker-on-flying
 usePageBundles: false # Set to true to group assets like images in the same folder as this post.
-image: "images/001-walker-on-flying/frontispiece.jpg"
+image: "post/001-walker-on-flying/frontispiece.jpg"
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 figurePositionShow: true # Override global value for showing the figure label.
 tags: ["walker", "flying", "aeronautics", "aviation"]
-categories:
-  - Aeronautics
-  - Engineering
+categories: ["Aeronautics", "Engineering"]
 tags:
   - walker
   - flying
@@ -24,7 +22,7 @@ comment: false # Disable comment if false.
 
 My first post is about the book that began my fascination with early aviation. It is the first edition of Thomas Walker's *A Treatise Upon the Art of Flying*, printed in Hull in 1810. It is unfortunate that the frontispiece depicting Walker's flying machine is soiled and has been repaired in this copy. Nevertheless, this copy is particularly interesting because it has been inscribed by Walker to a Tho. Jagues. Auction records show that this exact copy went up for sale in 1986 and sold for about $550.
 
-{{< figure src="inscription.jpg" title="Inscription by Walker" width="400" class="left">}}
+{{< figure src="inscription.jpg" title="Inscription by Walker" width="400" class="left" font-size="125">}}
 
 Little is known about Walker's life. The title page lists his occupation as a portrait painter. J. E. Hodgson's *The History of Aeronautics in Great Britain* contains a footnote stating that "Walker is referred to by a writer in the *Mechanics' Mag.* (vol. xiii, 1830, p. 350) as a 'gentleman of great talent', unassuming but communicative, save in the presence of 'the critic, the wit, or the more heavy part of mankind, who are too tiresome to instruct.'"
 
@@ -41,7 +39,7 @@ Copies of the first edition of his work were taken to mainland Europe and Americ
 In the second edition, printed in Bristol in 1831, Walker updated the design for his flying machine. The shape and number of wings changed, and Walker suggested the possibility of adding hydrogen gas in the wings to aid in flight. In this edition, Walker also noted the experiments in mechanical flight taking place across in France and America.
 
 The Aeronautical Society of Great Britain reprinted this work in The Aeronautical Classics, in which both editions of this work appear. In the foreword, the following is written about Walker: 
-> His sole claims to immortality are the two editions of his pamphlet upon flying, which exhibit him as an earnest amateur with a hobby and some small conceit of himself. He fumbles with great truths: knows much, but fails to order his knowledge, and hovers on the brink of great achievements in a way that is quite exasperating. For these reasons his writings are, perhaps, the most fascinating of all those of the pioneers.
+> <h3>His sole claims to immortality are the two editions of his pamphlet upon flying, which exhibit him as an earnest amateur with a hobby and some small conceit of himself. He fumbles with great truths: knows much, but fails to order his knowledge, and hovers on the brink of great achievements in a way that is quite exasperating. For these reasons his writings are, perhaps, the most fascinating of all those of the pioneers.</h3>
 
 Though Walker isn't as well-known as George Cayley, I have to agree with the quote above. It is clear that Walker was clearly fascinated by the possibility of mechanical flight given that he thought about the problem over the course of many decades.
 

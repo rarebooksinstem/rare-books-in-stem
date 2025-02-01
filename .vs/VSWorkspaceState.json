@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
-    "\\config\\_default",
+    "",
+    "\\content",
     "\\content\\post",
-    "\\static\\logos",
-    "\\themes\\ananke",
-    "\\themes\\ananke\\config\\_default",
-    "\\themes\\ananke\\exampleSite\\content\\en",
-    "\\themes\\ananke\\exampleSite\\content\\en\\about",
-    "\\themes\\hugo-clarity\\layouts",
-    "\\themes\\hugo-clarity\\layouts\\partials",
-    "\\themes\\lightbi-hugo\\exampleSite\\content",
-    "\\themes\\lightbi-hugo\\exampleSite\\content\\about"
+    "\\content\\post\\001-walker-on-flying",
+    "\\static",
+    "\\themes\\bookworm-hugo\\exampleSite",
+    "\\themes\\bookworm-hugo\\exampleSite\\config",
+    "\\themes\\bookworm-hugo\\exampleSite\\config\\_default",
+    "\\themes\\bookworm-hugo\\exampleSite\\content\\english",
+    "\\themes\\bookworm-hugo\\exampleSite\\content\\english\\blog"
   ],
+  "SelectedNode": "\\themes",
   "PreviewInSolutionExplorer": false
 }
