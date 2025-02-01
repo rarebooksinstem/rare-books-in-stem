@@ -2,7 +2,6 @@
 title = "FAQ"
 description = "FAQ"
 date = "2025-01-23"
-aliases = ["faq"]
 author = "Rare Books in STEM"
 draft = false
 showDate = false
