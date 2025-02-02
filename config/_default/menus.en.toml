@@ -1,0 +1,18 @@
+############# english navigation ##############
+
+# Dropdown menu
+[[main]]
+weight = 1
+name = "homepage"
+url = ""
+hasChildren = false
+
+[[main]]
+name = "FAQ"
+URL = "faq/"
+weight = 2
+
+[[main]]
+name = "About"
+URL = "about/"
+weight = 3
