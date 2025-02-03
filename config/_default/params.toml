@@ -25,7 +25,7 @@ search = true
 # featured
 featured_post = false
 # layout
-post_layout= "full" # layout value (full, grid or list)
+post_layout= "list" # layout value (full, grid or list)
 # Sidebar
 sidebar = "right" # sidebar value (left, right or false)
 # main taxonomy that will show at header and post card
@@ -106,5 +106,5 @@ button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["search", "about-me", "categories", "recent-post", "tags"]
+sidebar = ["about-me", "categories", "tags"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription

@@ -7,15 +7,12 @@ toc: false # Controls if a table of contents should be generated for first-level
 # menu: main
 slug: walker-on-flying
 usePageBundles: false # Set to true to group assets like images in the same folder as this post.
-#images: images/frontispiece.jpg"
+images: 
+  - images/frontispiece.jpg
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
-tags: ["walker", "flying", "aeronautics", "aviation"]
+tags: ["walker", "flying", "aeronautics"]
 categories: ["Aeronautics", "Engineering"]
-tags:
-  - walker
-  - flying
-  - aeronautics
 comment: false # Disable comment if false.
 ---
 
