@@ -8,7 +8,7 @@
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-color_primary = "#4FD675"
+color_primary = "#3D85C6"
 color_secondary = "#4fc3d6"
 text_color = "#555"
 text_dark = "#333"
@@ -36,7 +36,8 @@ font_scale = "1.2" # default is "majorThird": 1.25
 
 # go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
 # example: "Nunito Sans:wght@400;500;600"
-font_primary = "Nunito Sans:ital,wght@0,400;0,600;0,700;0,800;1,800"
+#font_primary = "Nunito Sans:ital,wght@0,400;0,600;0,700;0,800;1,800"
+font_primary = "EB+Garamond:ital,wght@0,400..800;1,400..800"
 font_primary_type = "sans-serif" # [serif/sans-serif]
 font_secondary = ""
 font_secondary_type = "" # [serif/sans-serif]
