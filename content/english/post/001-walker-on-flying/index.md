@@ -5,7 +5,7 @@ date: 2025-01-27 # Date of post creation.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
-slug: walker-on-flying
+url: walker-on-flying
 usePageBundles: false # Set to true to group assets like images in the same folder as this post.
 images: 
   - images/001-walker-on-flying/frontispiece.jpg

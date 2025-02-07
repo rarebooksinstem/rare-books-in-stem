@@ -7,6 +7,7 @@ images:
   - images/004-launoy-and-bienvenu/title.jpg
 tags: ["launoy", "bienvenu", "helicopter"]
 categories: ["Aeronautics", "Engineering"]
+url: launoy-and-bienvenu
 ---
 
 This pamphlet was printed only a year after the Montgolfier Brothers' public demonstration of a hot air balloon in 1783. It advertises a helicopter prototype that Launoy, a naturalist, and Bienvenu, a mechanic, built and exhibited in front of the Academie des Sciences in 1784. Buying this pamphlet also gave the purchaser access to see three models at Bienvenu's house on Rue de Rohan in Paris. One was the model exhibited before the Academie, the second was a model three times its size, and the third was a model of another proposed flying machine. (See J. E. Hodgson's <i>The History of Aeronautics in Great Britain</i>.)
