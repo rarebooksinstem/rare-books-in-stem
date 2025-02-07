@@ -29,7 +29,7 @@ post_layout= "list" # layout value (full, grid or list)
 # Sidebar
 sidebar = "right" # sidebar value (left, right or false)
 # main taxonomy that will show at header and post card
-main_taxonomy = "tag" # optional value (tag or category)
+main_taxonomy = "category" # optional value (tag or category)
 
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
