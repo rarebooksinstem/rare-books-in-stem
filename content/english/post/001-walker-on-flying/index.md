@@ -35,8 +35,16 @@ Copies of the first edition of his work were taken to mainland Europe and Americ
 In the second edition, printed in Bristol in 1831, Walker updated the design for his flying machine. The shape and number of wings changed, and Walker suggested the possibility of adding hydrogen gas in the wings to aid in flight. In this edition, Walker also noted the experiments in mechanical flight taking place across in France and America.
 
 The Aeronautical Society of Great Britain reprinted this work in The Aeronautical Classics, in which both editions of this work appear. In the foreword, the following is written about Walker: 
-> <h5>His sole claims to immortality are the two editions of his pamphlet upon flying, which exhibit him as an earnest amateur with a hobby and some small conceit of himself. He fumbles with great truths: knows much, but fails to order his knowledge, and hovers on the brink of great achievements in a way that is quite exasperating. For these reasons his writings are, perhaps, the most fascinating of all those of the pioneers.</h5>
+> <h6>His sole claims to immortality are the two editions of his pamphlet upon flying, which exhibit him as an earnest amateur with a hobby and some small conceit of himself. He fumbles with great truths: knows much, but fails to order his knowledge, and hovers on the brink of great achievements in a way that is quite exasperating. For these reasons his writings are, perhaps, the most fascinating of all those of the pioneers.</h6>
 
 Though Walker isn't as well-known as George Cayley, I have to agree with the quote above. It is clear that Walker was clearly fascinated by the possibility of mechanical flight given that he thought about the problem over the course of many decades.
 
-I'll end by saying that the early-19th-century editions of this work are rare. It is a good thing, then, that some of the pioneers of aviation in the late-19th and early-20th centuries recognized Walker's contributions and decided to inlude this work in several magazines and publications, sometimes in abridged form. It was reprinted in the 1895 edition of *The Aeronautical Annual*, and a stand-alone reprint printed by The Aeronautical Society of Great Britain appeared in 1910 as *The Art of Flying*.
+I'll end by saying that the early-19th-century editions of this work are rare. It seems that the first edition was hard to find even a couple decades after its initial publication. In volume vii of *Mechanics' Magazine* from 1827, which contains excerpts from the first edition, H. Bell writes the following about this work:
+
+> <h6>In the book-case of a deceased friend I found, several years ago, a curious pamphlet, which I have every reason to suppose is scarce, or perhaps was printed for the author's friends alone.</h6>
+
+Bell goes on to note that he tried making inquiries about the author while passing through Hull but was unable to locate him. He did, however, hear about Walker's plan to add a triangular parachute to his flying machine for not only safety reasons but also to provide additional lift.
+
+{{< figure src="parachute.jpg" title="Proposed parachute to Walker's flying machine" width="400">}}
+
+It is a good thing, then, that some of the pioneers of aviation in the late-19th and early-20th centuries recognized Walker's contributions and decided to inlude this work in several magazines and publications, sometimes in abridged form. It was reprinted in the 1895 edition of *The Aeronautical Annual*, and a stand-alone reprint printed by The Aeronautical Society of Great Britain appeared in 1910 as *The Art of Flying*.
