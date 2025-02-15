@@ -63,9 +63,9 @@ access_token = "" # place your instagram access token here | see https://instafe
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+keywords = ["Rare Book", "Science", "Technology", "Engineering", "Science", "Antiquarian"]
+description = "Site dedicated to rare books in STEM"
+author = "Rare Books in STEM"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
