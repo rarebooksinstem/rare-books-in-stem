@@ -1,5 +1,5 @@
 ---
-title: "A Treatise Upon the Art of Flying by Thomas Walker (1810)" # Title of the blog post.
+title: "First edition of A Treatise Upon the Art of Flying by Thomas Walker (1810)" # Title of the blog post.
 date: 2025-01-27 # Date of post creation.
 # description: "Article description." # Description used for search engine.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
