@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets\\images",
+    "\\config\\_default",
+    "\\content\\english",
+    "\\content\\english\\post",
+    "\\content\\english\\post\\002-bernoulli-hydrodynamica",
+    "\\content\\english\\post\\009-venturi",
+    "\\themes\\reader-hugo",
+    "\\themes\\reader-hugo\\layouts\\partials\\essentials"
   ],
+  "SelectedNode": "\\content",
   "PreviewInSolutionExplorer": false
 }
