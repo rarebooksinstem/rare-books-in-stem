@@ -1,15 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\images",
-    "\\config\\_default",
+    "\\content",
     "\\content\\english",
     "\\content\\english\\post",
-    "\\content\\english\\post\\002-bernoulli-hydrodynamica",
-    "\\content\\english\\post\\009-venturi",
-    "\\themes\\reader-hugo",
-    "\\themes\\reader-hugo\\layouts\\partials\\essentials"
+    "\\content\\english\\post\\013-boulton-aerial-navigation"
   ],
-  "SelectedNode": "\\content",
+  "SelectedNode": "\\content\\english\\post\\001-walker-on-flying",
   "PreviewInSolutionExplorer": false
 }
