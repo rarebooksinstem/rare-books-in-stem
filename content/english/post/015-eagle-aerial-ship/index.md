@@ -1,5 +1,5 @@
 ---
-date: 2025-04-07
+date: 2025-04-09
 draft: false
 title: "Handbill for the aerial ship The Eagle (1834)"
 url: eagle-aerial-ship
