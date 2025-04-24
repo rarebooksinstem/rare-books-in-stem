@@ -21,7 +21,7 @@ Of particular interest are the twenty-one engravings, including a depiction of V
 
 This particular copy comes from the Frank Streeter library and was sold at auction in 2007. It is bound in modern calf with a leather label stamped in gilt. There are some condition issues to note. The title page has been laid down on a backing sheet, and this copy is missing the volvelle found on page 137.
 
-Nicholas Okes, the printer of this book, was known for printing works of English drama, history, science, and literature. He was apprenticed to William King for eight years before becoming a master printer on April 19, 1606. *A Dictionary of Printers and Booksellers* says he operated from 1606 until his retirement in 1639. He died in 1644.
+Nicholas Okes, the printer of this book, was known for printing works of English drama, history, science, and literature. He was apprenticed to William King for eight years before becoming a master printer on April 19, 1606. *A Dictionary of Printers and Booksellers in England, Scotland and Ireland* by Ronald McKerrow and Harry Aldis says he operated from 1606 until his retirement in 1639, after which his son John continued the business. Nicholas Okes died in 1644.
 
 {{< figure src="book.jpg" title="This copy is bound in modern calf" width="400" class="left">}}\
 {{< figure src="endpapers.jpg" title="Marbled endpapers in this copy" width="400" class="left">}}
