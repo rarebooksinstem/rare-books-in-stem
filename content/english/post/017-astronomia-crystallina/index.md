@@ -1,7 +1,7 @@
 ---
 date: 2025-05-01
 draft: false
-title: "First edition of Astronomia Crystallina by the unknown author J. H. (1670)"
+title: "First edition of Astronomia Crystallina by J. H. (1670)"
 url: astronomia-crystallina
 images:
   - images/017-astronomia-crystallina/volvelle.jpg
