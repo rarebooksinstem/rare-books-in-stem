@@ -6,7 +6,7 @@ url: coming-railroad
 images:
   - images/030-coming-railroad/frontispiece.jpg
 tags: ["engineering"]
-categories: ["Engineering", "Railroad"]
+categories: ["Engineering", "Railroads"]
 ---
 This is a scarce and interesting work by George Nathan Chase and Henry William Kirchner. Before getting into the contents of the book, it is worth mentioning that this is a particularly fine copy of this work. It is bound in maroon cloth titled in gilt. It is also signed by Chase on the front free endpaper. There is another signature next to Chase's, presumably belonging to a previous owner. There are nine plates bound in the back, and there are charming little illustrations to be found above or next to the first four chapter titles. The nine plates are shown at very bottom of this page.
 
