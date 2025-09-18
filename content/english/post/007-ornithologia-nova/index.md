@@ -6,7 +6,7 @@ url: ornithologia-nova
 images:
   - images/007-ornithologia-nova/tropick.jpg
 tags: ["ornithology", "birds", "natural history"]
-categories: ["Ornithology"]
+categories: ["Ornithology", "Natural History"]
 ---
 
 *Ornithologia Nova* was written by an unknown author, and the two-volume first edition was printed in Birmingham in 1743 and 1745. Thomas Warren, the printer, began selling and possibly printing books in Birmingham as early as 1728 and became one of the most important printers in town. Much of the material he printed appears to be lectures and sermons.

@@ -1,11 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\config\\_default",
     "\\content",
     "\\content\\english",
     "\\content\\english\\post",
-    "\\content\\english\\post\\026-sa-dec-23-1848"
+    "\\content\\english\\post\\032-sa-jan-08-1870",
+    "\\themes\\reader-hugo",
+    "\\themes\\reader-hugo\\archetypes"
   ],
-  "SelectedNode": "\\content\\english\\post\\026-sa-dec-23-1848\\index.md",
+  "SelectedNode": "\\content\\english\\post\\001-walker-on-flying",
   "PreviewInSolutionExplorer": false
 }
