@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\config\\_default",
     "\\content",
     "\\content\\english",
     "\\content\\english\\post",
-    "\\content\\english\\post\\044-sa-jun-24-1871"
+    "\\layouts\\_default"
   ],
-  "SelectedNode": "\\content\\english\\post\\044-sa-jun-24-1871\\index.md",
+  "SelectedNode": "\\content\\english\\post\\048-whalley-quadripartite",
   "PreviewInSolutionExplorer": false
 }
