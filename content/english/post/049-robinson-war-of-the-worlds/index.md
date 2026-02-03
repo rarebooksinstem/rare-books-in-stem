@@ -5,7 +5,7 @@ title: "First edition of The War of the Worlds by Frederick Robinson (1914)"
 url: robinson-war-of-the-worlds
 images:
   - images/049-robinson-war-of-the-worlds/chicago.jpg
-tags: ["robinson", "ballooning"]
+tags: ["robinson", "ballooning", "science fiction"]
 categories: ["Science fiction", "Aeronautics"]
 ---
 While this work shares the same title as H. G. Well's novel, that is where the similarities end. Frederick Robinson's *The War of the Worlds: A Tale of the Year 2,000 A. D.* is a tale envisioning life and war almost a century after its publication in 1914. It appears to be self-published.
