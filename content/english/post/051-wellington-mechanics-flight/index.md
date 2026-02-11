@@ -1,7 +1,7 @@
 ---
 date: 2026-02-11
 draft: false
-title: "'The Mechanics of Flight and Aspiration' by A. M. Wellington, found in October 12, 1893, issue of Engineering News (1893)"
+title: '"The Mechanics of Flight and Aspiration" by A. M. Wellington, found in October 12, 1893, issue of Engineering News (1893)'
 url: wellington-mechanics-of-flight
 images:
   - images/051-wellington-mechanics-flight/fig3.jpg

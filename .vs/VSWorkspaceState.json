@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config\\_default",
     "\\content",
     "\\content\\english",
     "\\content\\english\\post",
-    "\\layouts\\_default"
+    "\\content\\english\\post\\051-wellington-mechanics-flight"
   ],
-  "SelectedNode": "\\content\\english\\post\\048-whalley-quadripartite",
+  "SelectedNode": "\\content\\english\\post\\051-wellington-mechanics-flight\\index.md",
   "PreviewInSolutionExplorer": false
 }
