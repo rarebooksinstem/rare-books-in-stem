@@ -18,17 +18,17 @@ comment: false # Disable comment if false.
 
 My first post is about the book that began my fascination with early aviation. It is the first edition of Thomas Walker's *A Treatise Upon the Art of Flying*, printed in Hull in 1810. It is unfortunate that the frontispiece depicting Walker's flying machine is soiled and has been repaired in this copy. Nevertheless, this copy is particularly interesting because it has been inscribed by Walker to a Tho. Jagues. Auction records show that this exact copy went up for sale in 1986 and sold for about $550.
 
-{{< figure src="inscription.jpg" title="Inscription by Walker" width="400" class="left">}}
+{{< figure src="inscription.jpg" title="Inscription by Walker" width="550" class="left">}}
 
 Little is known about Walker's life. The title page lists his occupation as a portrait painter. J. E. Hodgson's *The History of Aeronautics in Great Britain* contains a footnote stating that "Walker is referred to by a writer in the *Mechanics' Mag.* (vol. xiii, 1830, p. 350) as a 'gentleman of great talent', unassuming but communicative, save in the presence of 'the critic, the wit, or the more heavy part of mankind, who are too tiresome to instruct.'"
 
-{{< figure src="title-page.jpg" title="Title page of the 1810 first edition" width="400">}}
+{{< figure src="title-page.jpg" title="Title page of the 1810 first edition" width="550">}}
 
 The book itself offers little insight into Walker's life. However, it is evident that Walker was little more than an amateur hobbyist when it came to aeronautics, at least when the first edition was printed. His approach to mechanical flight came from dissecting and studying birds and the mechanisms that allowed them to fly. According to him, only two things were needed for sustained flight: large enough wings and enough strength to power them. His idea for a flying machine essentially consisted of planks supporting a chair with wings that could be controlled by a lever to make the wings flap, thus allowing the machine to rise in the air.
 
 There is evidence that Walker built at least one prototype. Hodgson's *History* states that a witness saw the machine Walker had constructed but that he was "unable to raise himself from the platform on which the car was placed." The picture below shows Walker's flying machine from the first edition. It is likely that the machine Walker attempted to demonstrate was based on the second edition of this work.
 
-{{< figure src="frontispiece.jpg" title="Frontispiece depicting Walker's flying machine" width="400">}}
+{{< figure src="frontispiece.jpg" title="Frontispiece depicting Walker's flying machine" width="550">}}
 
 Copies of the first edition of his work were taken to mainland Europe and America. The first American edition appeared in 1814 and was reprinted in 1816, showing that there was considerable interest in this work.
 
@@ -45,6 +45,6 @@ I'll end by saying that the early-19th-century editions of this work are rare. I
 
 Bell goes on to note that he tried making inquiries about the author while passing through Hull but was unable to locate him. He did, however, hear about Walker's plan to add a triangular parachute to his flying machine for not only safety reasons but also to provide additional lift.
 
-{{< figure src="parachute.jpg" title="Proposed parachute to Walker's flying machine" width="400">}}
+{{< figure src="parachute.jpg" title="Proposed parachute to Walker's flying machine" width="550">}}
 
 It is a good thing, then, that some of the pioneers of aviation in the late-19th and early-20th centuries recognized Walker's contributions and decided to inlude this work in several magazines and publications, sometimes in abridged form. It was reprinted in the 1895 edition of *The Aeronautical Annual*, and a stand-alone reprint printed by The Aeronautical Society of Great Britain appeared in 1910 as *The Art of Flying*.

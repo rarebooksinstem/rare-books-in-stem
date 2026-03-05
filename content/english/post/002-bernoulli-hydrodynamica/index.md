@@ -19,13 +19,13 @@ Daniel Bernoulli began writing *Hydrodynamica* in 1729 while in Russia, and it w
 
 There are some noteworthy things to mention about the title page. It states that Daniel is the son of Johann and that he is, at the time of the book's publication, an honarary professor at the Imperial Academy of Sciences of Petropolis (St. Petersburg) (Academia Scientiarum Imperialis Petropolitinae). The engraving was done by Johann Martin Weiss, the type by Johann Heinrich Decker, and the book printed by Johann Reinhold Dulsecker.
 
-{{< figure src="title page.jpg" title="Title page of the 1738 first edition" width="400" class="left">}}
+{{< figure src="title page.jpg" title="Title page of the 1738 first edition" width="550" class="left">}}
 
 What is now known as Bernoulli's principle (the pressure decreases as the velocity increases) can be found in chapter 12. The relevant pages and figure are shown below. The original derivation and result can be hard to understand because they appear in a different form than what students today are used to. For a more detailed analysis, see "3. The Bernoulli Equation in the *Hydrodynamica*" in chapter 9 of *Landmark Writings in Western Mathematics*. What is interesting is that Bernoulli doesn't draw special attention to this principle. It is possible he didn't fully appreciate it given that, up to that point, achievements in fluid mechanics had been sporadic at best. It wasn't until the eighteenth and nineteenth centuries that regular contributions were made to the field.
 
-{{< figure src="first page.jpg" width="400" class="left">}}\
-{{< figure src="second page.jpg" width="400" class="left">}}\
-{{< figure src="third page.jpg" width="400" class="left">}}\
-{{< figure src="figure 72.jpg" title="Figure 72 is used to explain Bernoulli's principle." width="400" class="left">}}
+{{< figure src="first page.jpg" width="550" class="left">}}\
+{{< figure src="second page.jpg" width="550" class="left">}}\
+{{< figure src="third page.jpg" width="550" class="left">}}\
+{{< figure src="figure 72.jpg" title="Figure 72 is used to explain Bernoulli's principle." width="550" class="left">}}
 
 There are a couple of English translations that I am aware of. One is a 1968 edition by Dover Publications that includes both Daniel Bernoulli's *Hydrodynamics* and Johann Bernoulli's *Hydraulics*. The "Preface to the English Translations" section by Hunter Rouse is particularly insightful. A free translation of *Hydrodynamica* by Ian Bruce is available online [here](https://www.17centurymaths.com/contents/dbernoullicontents.htm).
