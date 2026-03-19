@@ -1,7 +1,7 @@
 ---
 date: 2026-03-19
 draft: false
-title: "Two articles about Thomas Walker in the July 17 and 24, 1830, issues of Mechanics Magazine(1830)"
+title: "Two articles about Thomas Walker in the July 17 and 24, 1830, issues of Mechanics Magazine (1830)"
 url: mechanics-magazine-july-1830-walker
 images:
   - images/056-mechanics-magazine-july-1830-walker/article.jpg
