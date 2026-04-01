@@ -1,0 +1,42 @@
+---
+date: 2026-04-01
+draft: false
+title: '"Early Aeronautics" by Jacob Abbott, found in the July 1869 issue of Harper''s New Monthly Magazine (1869)'
+url: harpers-early-aeronautics-july-1869
+images:
+  - images/058-harpers-early-aeronautics-july-1869/philosophy.jpg
+tags: ["ballooning", "aeronautics"]
+categories: ["Aeronautics", "Ballooning"]
+---
+"The obstacle for man in the way of his acquiring the art of flying is not the difficulty of *constructing wings*, but that of obtaining the necessary force to work them." Thus begins this article by Jacob Abbott (as stated in the index to *Harper's New Monthly Magazine*), which describes some major accomplishments and accidents in aeronautics history. Abbott also notes the difficulties with propelling and steering a balloon through the air and discusses the possibility that the balloon is nothing more than a philosophical toy.
+
+The first flying machine described is that of Besnier, a locksmith who lived "in the province of Maine, in France." His machine consisted of a double pair of wings that were worked by both the hands and the feet. "The wings on each side were connected together by a stiff though slender bar of wood, the centre of which rested on the shoulder, as its pivot, in such a manner that the two ends, with the wings attached to them, could be brought down alternately by the action of the hands and feet. Each wing was formed of two leaves, which were hinged to the bar in such a manner as to cause them to open and present a large surface to the air in coming down, and then close again in going up." It is stated that Besnier did not expect to raise himself off the ground but rather to slow his descent from a height to amuse spectators.
+
+{{< figure src="besnier.jpg" title="Besnier's flying machine" width="550" class="left">}}
+
+Jean-Pierre Blanchard, after many fruitless attempts to construct wings, constructed a machine with a counterweight of twenty pounds that could help him overcome gravity. With this machine, he was able to raise himself eighty feet off the ground. The figure below shows his flying machine, with parachute-like wings that were operated with his hands and feet. With the invention of the balloon in 1783, Blanchard assumed that, since the difficulty of raising a person in the air had been solved, it would be easy enough to propel the aeronaut in any direction with wings. The second figure below shows Blanchard's idea for a "boat." It combined a balloon with wings, and the wings were worked by people sitting in the car. If the balloon had an accident, the wings could be used as a parachute to allow the car to safely descend.
+
+{{< figure src="blanchard counterweight.jpg" title="Blanchard's original idea for a machine using a counterweight" width="550" class="left">}}\
+{{< figure src="blanchard flying balloon.jpg" title="Blanchard's flying balloon with wings for navigation through the air" width="550" class="left">}}
+
+Abbott discusses the history of the parachute. It is said that the parachute was invented by Sebastian Lenormand after reading in travel books that some performers jumped from heights and were able to slow their descent using "an instrument like an umbrella." His first trial was made with two umbrellas, and with a larger umbrella strenghtened with additional ties to prevent it from being turned inside out, he was able to jump safely from the second story of a house in Montpellier. He was even able to suspend animals from an umbrella thirty inches in diameter and allow them to safely descend from the top of an observatory. Using an umbrella about fourteen feet in diameter, Lenormand himself was safely able to descend from the top of a tower in front of spectators. Among the spectators was Montgolfier, who immediately adopted the parachute for his own balloons.
+
+{{< figure src="public ascensions.jpg" title="As the popularity of balloons increased, so did the number of ascents in front of large crowds" width="550" class="left">}}
+
+There have been cases where balloons and parachutes were used for attempted escapes by prisoners. Jacques Garnerin, who was imprisoned in Hungary, was betrayed by the person from whom he was trying to procure materials, so he was never able to test his design. Another man by the name of Dronet was imprisoned in a castle in Moravia and managed to make a parachute out of curtains. However, he broke his leg in the fall and was returned to his cell. Finally, a criminal arrested for forgery by the name of Lavin escaped by jumping from the window in his room. Using an umbrella, he managed to descend safely into the river below his window. He was, however, recaptured and "kept in close confinement for the rest of his life."
+
+Jacques Garnerin, mentioned above, was released from prison in 1797, and he determined to show the public his design from when he was imprisoned. In the fall of 1797, he constructed a balloon with a folded parachute that would deploy during the descent. There was a cord that connected the balloon with the car, and cutting the cord would allow the aeronaut and the parachute to fall to the earth. Garnerin ascended to a height of 3,000 feet and released himself. The parachute expanded and "at once began to sway to and fro from one side to the other in frightful oscillations." The car violently jerked from side to side. At the same time, the balloon "turned over on its side, began to collapse, and follow the parachute in its fall." Both drifted away in the wind, and the balloon hit the ground first. Garnerin landed safely some distance away.
+
+{{< figure src="garnerin.jpg" title="Jacques Garnerin descending using a parachute" width="550" class="left">}}
+
+Not all exploits were successful, and some led to death. After her husband's death, Sophie Blanchard adopted her husband's profession as a balloonist and made between fifty and sixty ascents. In 1819, she came up with the idea of setting off fireworks during an ascent for spectators at a fair in Paris. The fireworks were attached to the balloon, and Madame Blanchard was to use a pole with a torch at the end of it to light them and then detach them so that they could be seen by the people below. During the event, the fire from either the torch or the fireworks reached the hydrogen, and "the lower portion of the balloon was immediately enveloped in flames." The cords that connected the car to the balloon were burned off, and Madame Blanchard fell to her death.
+
+{{< figure src="madame blanchard.jpg" title="Madame Blanchard fell to her death during a ballooning accident" width="550" class="left">}}
+
+Another accident, though not a fatal one, happened when a twelve-year-old boy, Guerin, was accidentally taken up after a balloon broke away from those holding it. The balloon got caught in the boy's pantaloons and lifted him into the air. He held on to one of the ropes until the air grew cool, and the balloon could no longer ascend. As the balloon descended, the rope began to untwist, and Guerin began spinning faster and faster. As he came close to the ground, some people were able to grab hold of him and unhook him from the anchor. As a result of this experience, "Guerin found himself suddenly very famous. As he was only in the air about fifteen minutes, it is very probable that this boy acquired historical immortality at an earlier age, and in a shorter time, than any other human being."
+
+{{< figure src="guerin.jpg" title="The young boy Guerin survived a ballooning accident" width="550" class="left">}}
+
+Another accident occurred in London in 1824, when an aeronaut named Harris invited a young woman to whom he was engaged to join him on an ascent. Upon reaching a certain height, the valve used to discharge excess hydrogen could not be closed properly, so there was no way to prevent the balloon from rapidly descending. Harris threw out all the ballast and anything else he could, including "his own and the lady's outer clothing," to slow the descent. This did not work. He concluded that by throwing himself over, there would be enough bouyancy to sustain the young woman's weight. With a kiss, he leaped into the air and fell to his death. The woman fainted but recovered with no permanent injury.
+
+{{< figure src="self-sacrifice.jpg" title="Harris sacrifices himself to save a young woman" width="550" class="left">}}
