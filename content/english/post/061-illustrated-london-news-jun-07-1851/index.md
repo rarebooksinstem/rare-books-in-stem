@@ -1,0 +1,21 @@
+---
+date: 2026-04-22
+draft: false
+title: '"Balloon Ascent from Batty''s Hippodrome, at Kensington", found in the June 7, 1851, issue of The Illustrated London News (1851)'
+url: illustrated-london-news-jun-07-1851
+images:
+  - images/061-illustrated-london-news-jun-07-1851/balloon.jpg
+tags: ["ballooning", "aeronautics", "illustrated london news", "hampton"]
+categories: ["Ballooning", "Aeronautics"]
+---
+This issue of *The Illustrated London News* contains a short article of a balloon ascent that took place on June 2, 1851, when John Hampton and two others ascended from William Batty's Grand National Hippodrome. Batty's Hippodrome was opened in May of 1851 "nearly opposite the Broad Walk in Kensington Gardens, and between part of Victoria Road and Victoria Walk." The first performances were Roman chariot races that took place in the evening. Balloon ascents were soon added, and Hampton and Margaret Graham were among the famous balloonists who were asked to perform (*The Pleasure Haunts of London During Four Centuries* by Edwin Beresford Chancellor).
+
+Hampton was born in 1799 and was in the navy before beginning a career as a aeronaut and parachutist. His first ascent took place on June 8, 1838, in his "Albion Balloon." He was the first English parachutist and made his first descent with a parachute at Cheltenham on October 3, 1858 (*The History of Aeronautics in Great Britain* by John Edmund Hodgson). The full text of this article describing his ascent from Batty's Hippodrome is given below.
+
+"The announcement that a Balloon Ascent would take place from this novel and capacious place of entertainment, attracted a vast multitude of spectators on Monday evening; and at five o'clock, so eager were the public to obtain admission, that it was with difficulty we gained an entrance to the Elliptical Pavilion, which is said to be capable of accommodating 14,000 spectators; and the proprietor had an opportunity of testing the accuracy of this estimate, as it was filled in every part. At the moment of our entering, the Balloon was filling rapidly; and at a quarter to six o'clock it was fully inflated, when its size and beauty were much admired, as testified by the plaudits of the thousands of spectators. The Balloon is 90 feet in height, and 120 feet in circumference, and contains 40,000 cubic feet of gas: it is decorated by two large medallions&mdash;one bearing the figure of Britannia with the national emblems, the other an emblematic representation of Hibernia and her wolf-dog; between the medallions is inscribed 'Erin go bragh' in silver; the whole had a most brilliant effect.
+
+"All things being ready by six o'clock, Mr. Hampton, the a&#235;ronaut, took his seat in the car, accompanied by two gentlemen. When the signal was given, the ropes that confined the Balloon to earth were cast off, and she ascended majestically into the air amidst the acclamations of the spectators. The clearness of the evening enabled the Balloon to be seen distinctly upwards of an hour: it then entered the clouds; and after continuing in the air upwards of two hours, the a&#235;rial travellers descended in safety a short distance from the New Cross railway-station, Mr. Hawkins and other gentlemen connected with the station rendering them the most prompt and kind attention.
+
+"Mr. Hampton describes his Balloon as the largest but one in the world, and the first ever made in Ireland: the cost of its construction was defrayed by public subscription of the inhabitants of Dublin, who presented the Balloon to Mr. Hampton in place of one destroyed by fire, when descending after an ascent from the Portobello Gardens, October 14, 1844. The silk was manufactured in Dublin, expressly for the Balloon: it is very closely woven, and consists of 500 yards, 42 inches wide; cost, &#163;200. The net was made by working in 150 brass eyes or thimbles: it is not attached, as on the old plan, by being tied to the hoop, but by means of toggles, which renders the descent easier."
+
+{{< figure src="balloon.jpg" title="John Hampton's balloon for his ascent from Batty's Hippodrome on June 2, 1851" width="650" class="left">}}
