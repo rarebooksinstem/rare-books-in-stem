@@ -11,7 +11,7 @@ showReadTime = false
 
 ### 1. What areas do you primarily collect?
 
-I primarily collect early aviation (pre-Wright Brothers), physics, engineering, math, ornithology, navigation, and horology material. My collection does include some other areas, such as history and science fiction.
+I primarily collect early aviation (pre-Wright Brothers), physics, engineering, math, ornithology, navigation, and horology material. My collection does include some other areas, such as history and travel/exploration.
 
 ### 2. Where do you get your material from?
 
