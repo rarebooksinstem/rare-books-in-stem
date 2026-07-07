@@ -4,7 +4,7 @@ draft: false
 title: 'First English edition of Jeffrey of Monmouth''s The British History, translated by Aaron Thompson (1718)'
 url: the-british-history-thompson
 images:
-  - images/072-the-british-history-thompson/woodcut.jpg
+  - images/072-the-british-history-thompson/woodcut-end.jpg
 tags: ["History"]
 categories: ["History"]
 ---
