@@ -1,0 +1,15 @@
+---
+date: 2026-07-17
+draft: false
+title: '"Aerial Navigation and its Possibility" by Timothy Choinski, found in the June 4, 1881, issue of Scientific American Supplement (1881)'
+url: sa-supplement-jun-04-1881
+images:
+  - images/073-sa-supplement-jun-04-1881/article.jpg
+tags: ["Aeronautics"]
+categories: ["Aeronautics"]
+---
+"Aerial Navigation and its Possibility" was written by Timothy Choinski to "show the possibility of a regulated aerial navigation." His opinion is that "men are still too much imbued with old ideas and stick too stubbornly to the wrong shape of the balloon and to the usual propelling power, as if the balloon were a sea ship." To prove his point, he suggests tying a balloon two feet in diameter to a pigeon in such a way that the pigeon can move its wings and tail. In theory, the pigeon, "released from the toil of using its wings in rising, ought to fly with more comfort; but you will see it become a powerless plaything to the softest wind; it will flutter without success." Similarly, Choinski says that trying to propel a balloon like a ship in water is also a mistake.
+
+Choinski argues that wings are not what allow birds to fly. Rather, it is the law of gravitation, the center of gravity, and the "center of bulk" that allow them to maintain flight. He goes on to provide several examples on the flight and plumage of birds. His central argument is that "birds neither have, nor need any means to fly with." Therefore, any airship or balloon should have the shape of a bird and not consist of two parts, namely, ball and basket, as with traditional balloons. To illustrate his points, he provides a description of his airship, which is to be manned by four people, "the captain, one man to the tail, and two for the wings." The airship is 100 feet long and 25 feet wide, with a total hull capacity of 12,000 cubic feet. The wings are 30 to 40 feet long and 10 feet wide. The tail is 30 feet long. There are details about what materials are to be used and how parts of the airship should be covered in those materials. Choinsky provides no sketch of his airship, stating that he is not "a mechanic" and that "all details I leave to experienced technologists." He ends by saying, "My problem was to show the possibility of a regulated aerial navigation, and to prove, on the one hand, that, for flying, no machines whatsoever are needed; on the other hand, that the only means to propel and steer an air ship at will are <i> the immense power of gravitation and inclined planes, both, and not wings, used in flying by birds.</i>
+
+Timothy Choinski was born on January 24, 1825, in Poland. He was a nobleman who was forced to flee Poland with his wife, Loccadia Dembinska, after the 1863 revolt. He initially settled in Milwauke, Wisconsin, before purchasing 22,000 acres northwest of Little Rock, Arkansas, to settle the land and set up farms for Polish immigrants. He named the land Marche, which is French for "market." He died on April 9, 1890. This paper appears to be the only work on aeronautics that Choinski published.
